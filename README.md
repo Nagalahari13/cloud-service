@@ -5,7 +5,7 @@ The project is currently implemented and tested on **localhost**, with scope for
 
 ---
 
-## 🚀 Features
+##  Features
 - Upload media files (images, documents, etc.)
 - Store files securely on the server
 - Simple and responsive frontend UI
@@ -14,7 +14,7 @@ The project is currently implemented and tested on **localhost**, with scope for
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 - Python
